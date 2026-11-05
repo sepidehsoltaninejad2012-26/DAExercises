@@ -4,7 +4,19 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <list>
+<<<<<<< HEAD
           <option value="pytest" />
+=======
+          <option value="scipy" />
+          <option value="pandas" />
+          <option value="openpyxl" />
+          <option value="seaborn" />
+          <option value="scikit-learn" />
+          <option value="jupyter" />
+          <option value="notebook" />
+          <option value="lab" />
+          <option value="yfinance" />
+>>>>>>> 9670f7f589c5b9ed43ba79d2dd9359c1242425f0
         </list>
       </option>
     </inspection_tool>

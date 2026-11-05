@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.14 (DATA)" />
+=======
+    <option name="sdkName" value="Python 3.14 (DA Exercises)" />
+>>>>>>> 9670f7f589c5b9ed43ba79d2dd9359c1242425f0
   </component>
 </project>
