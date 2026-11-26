@@ -1,0 +1,9 @@
+,survived,pclass,age,sibsp,parch,fare,sex_ID,adult_male_ID,alive_ID,who_ID,class_ID,embark_town_ID,deck_ID
+count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mean,,,,,,,,,,,,,
+std,,,,,,,,,,,,,
+min,,,,,,,,,,,,,
+25%,,,,,,,,,,,,,
+50%,,,,,,,,,,,,,
+75%,,,,,,,,,,,,,
+max,,,,,,,,,,,,,
